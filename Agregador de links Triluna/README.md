@@ -15,7 +15,7 @@ Programa desenvolvido para divulgação de tecnologias.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
