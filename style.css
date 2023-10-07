@@ -8,7 +8,7 @@
 
 :root {
     --text-color: rgba(227, 223, 203, 0.9);
-    --bg-url: url(./pxfuelnigth.png);
+    --bg-url: url(./pxfuelnigth.png.jpg);
     --stroke-color: rgba(170, 98, 48, 0.4);
     --surface-color: rgba(252, 252, 252, 0.1);
     --surface-color-hover: rgba(60, 59, 31, 0.2);
@@ -40,6 +40,7 @@ body{
     background: var(--bg-url) no-repeat top center/cover;
     height: 100%;
     width: 100%;
+    
 }
 body * {
     font-family: 'Inter', sans-serif;
@@ -50,7 +51,7 @@ body * {
 #container {
     width: 100%;
     max-width: 588px;
-    margin: 10px auto 0px;
+    margin: 10px auto auto;
     padding: 24px;
 }
 
