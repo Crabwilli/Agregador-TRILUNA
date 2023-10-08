@@ -186,7 +186,7 @@ footer {
 #apresentacao li p{
     display: flex;
     justify-content: center;
-
+    padding: 24px;
 
     color: var(--text-color);
     font-family: 'Megrim', cursive;
@@ -194,11 +194,15 @@ footer {
     background:  var(--surface-color);
     border: 1px solid  var(--stroke-color);
     border-radius: 8px;
+    -webackdrop-filter: blur (4px);
+    text-decoration: none;
+    font-weight: 1000;
+    transition: backgranud 0.5s;
 
 }
 #apresentacao video {
     display: block;
-    width: 530px;
+    width: 100%;
     margin:0 auto;
     text-align: center 
    
